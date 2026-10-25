@@ -1,0 +1,9 @@
+{
+  "kind": "ViewAction",
+  "version": 1,
+  "actionName": "request",
+  "displayName": "요청",
+  "type": "SCRIPT",
+  "argsName": null,
+  "contents": null
+}

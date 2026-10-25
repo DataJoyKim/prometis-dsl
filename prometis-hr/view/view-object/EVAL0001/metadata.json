@@ -1,0 +1,40 @@
+{
+  "kind": "ViewObject",
+  "version": 1,
+  "objectCode": "EVAL0001",
+  "objectName": "평가화면",
+  "type": "VIEW_BUILDER",
+  "path": "-",
+  "useAuthValidation": true,
+  "usePermissionValidation": true,
+  "useToolbar": false,
+  "content": [
+    {
+      "id": "row2",
+      "type": "row",
+      "children": [
+        {
+          "id": "myChart1",
+          "dataProvider": "",
+          "width": "100%",
+          "height": "400px",
+          "title": "",
+          "titleLeft": "",
+          "titleTop": "",
+          "titleTextAlign": "",
+          "titleFontSize": "",
+          "direction": "VERTICAL",
+          "useLegend": true,
+          "legendLeft": "",
+          "legendTop": "",
+          "legendOrient": "",
+          "legendFontSize": "",
+          "staticCategory": "",
+          "seriesSetting": [ ],
+          "type": "barline-chart"
+        }
+      ]
+    }
+  ],
+  "codes": [ ]
+}

@@ -1,0 +1,18 @@
+{
+  "kind": "Site",
+  "version": 1,
+  "layoutTitle": "",
+  "homeObjectCode": "",
+  "useLogo": true,
+  "logoText": "",
+  "logoBackgroundColor": "",
+  "logoTextColor": "",
+  "logoLink": "",
+  "logoImg": "",
+  "faviconPath": "",
+  "useCompanySelect": true,
+  "useProfile": true,
+  "profileImg": null,
+  "profileImgSize": null,
+  "loginImgLogoLink": null
+}

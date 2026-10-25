@@ -1,0 +1,48 @@
+{
+  "kind": "Workflow",
+  "version": 1,
+  "workflowCode": "EVAL0001_R01",
+  "displayName": "평가데이터 조회",
+  "note": "",
+  "useAuthValidation": true,
+  "permissions": [ ],
+  "ipGroups": [ ],
+  "domains": [ ],
+  "nodes": [
+    {
+      "nodeId": "node-1",
+      "functionType": "SQL",
+      "functionName": "EVAL0001_R01",
+      "errorResolveType": null,
+      "orderNum": 1,
+      "isLogging": false,
+      "requestMessageId": "ME_EVAL0001_01",
+      "responseMessageId": "ME_EVAL0001_02",
+      "positionX": 769,
+      "positionY": 378
+    },
+    {
+      "nodeId": "node-2",
+      "functionType": "NOTIFICATION",
+      "functionName": "sendMail",
+      "errorResolveType": null,
+      "orderNum": 2,
+      "isLogging": false,
+      "requestMessageId": "",
+      "responseMessageId": "",
+      "positionX": 769,
+      "positionY": 608
+    }
+  ],
+  "edges": [
+    {
+      "sourceNodeId": "node-1",
+      "targetNodeId": "node-2",
+      "branchType": "DEFAULT",
+      "branchId": null,
+      "orderNum": 0
+    }
+  ],
+  "conditions": [ ],
+  "errorResponses": [ ]
+}

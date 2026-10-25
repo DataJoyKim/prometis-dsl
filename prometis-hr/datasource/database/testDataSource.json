@@ -1,0 +1,14 @@
+{
+  "kind": "Database",
+  "version": 1,
+  "dataSourceName": "testDataSource",
+  "displayName": "테스트입니다",
+  "note": "테스트입니다",
+  "databaseKind": "MYSQL",
+  "url": "1",
+  "username": "2",
+  "maximumPoolSize": 100,
+  "minimumIdle": 100,
+  "connectionTimeout": 30000,
+  "validationTimeout": 5000
+}
