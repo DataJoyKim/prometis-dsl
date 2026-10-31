@@ -1,0 +1,7 @@
+{
+  "kind": "MessageProcessor",
+  "version": 1,
+  "processorName": "ME0001_PROCESS",
+  "displayName": "테스트",
+  "processorType": null
+}
