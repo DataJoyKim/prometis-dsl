@@ -1,0 +1,14 @@
+{
+  "kind": "Database",
+  "version": 1,
+  "dataSourceName": "prometis_hr",
+  "displayName": "Prometis HR 데이터소스",
+  "note": "",
+  "databaseKind": "MARIADB",
+  "url": "jdbc:mariadb://app-builder-metadatadb:3306/prometis_hr",
+  "username": "prometisadmin",
+  "maximumPoolSize": 100,
+  "minimumIdle": 100,
+  "connectionTimeout": 30000,
+  "validationTimeout": 30000
+}

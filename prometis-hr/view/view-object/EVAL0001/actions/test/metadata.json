@@ -1,9 +1,0 @@
-{
-  "kind": "ViewAction",
-  "version": 1,
-  "actionName": "test",
-  "displayName": "테스트",
-  "type": "SCRIPT",
-  "argsName": null,
-  "contents": null
-}

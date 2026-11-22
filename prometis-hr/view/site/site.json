@@ -1,18 +1,18 @@
 {
   "kind": "Site",
   "version": 1,
-  "layoutTitle": "",
+  "layoutTitle": "Prometis HR",
   "homeObjectCode": "",
   "useLogo": true,
-  "logoText": "",
-  "logoBackgroundColor": "",
-  "logoTextColor": "",
+  "logoText": "Prometis HR",
+  "logoBackgroundColor": "#4f3636",
+  "logoTextColor": "#e6e6e6",
   "logoLink": "",
-  "logoImg": "",
-  "faviconPath": "",
+  "logoImg": "/prometis-hr/image/site-brand/logo",
+  "faviconPath": "/prometis-hr/image/site-brand/logo",
   "useCompanySelect": true,
   "useProfile": true,
   "profileImg": null,
   "profileImgSize": null,
-  "loginImgLogoLink": null
+  "loginImgLogoLink": "/prometis-hr/image/site-brand/font-logo"
 }
